@@ -1,16 +1,7 @@
 """
 Assignment 2 starter code
-CSC148, Winter 2025
+CSC148
 Instructors: Bogdan Simion, Rutwa Engineer, Marc De Benedetti, Romina Piunno
-
-This code is provided solely for the personal and private use of
-students taking the CSC148 course at the University of Toronto.
-Copying for purposes other than this use is expressly prohibited.
-All forms of distribution of this code, whether as given or with
-any changes, are expressly prohibited.
-
-All of the files in this directory and all subdirectories are:
-Copyright (c) 2025 Bogdan Simion, Dan Zingaro
 """
 from __future__ import annotations
 
@@ -22,6 +13,7 @@ from utils import *
 
 # ====================
 # Functions for compression
+# ====================
 
 
 def build_frequency_dict(text: bytes) -> dict[int, int]:
