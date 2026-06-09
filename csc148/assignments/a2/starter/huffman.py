@@ -7,7 +7,6 @@ from __future__ import annotations
 
 from typing import Optional, Any
 
-
 class HuffmanTree:
     """ A Huffman tree.
     Each Huffman tree may have a left and/or a right subtree.
