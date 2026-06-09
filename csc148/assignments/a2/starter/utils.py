@@ -10,7 +10,6 @@ from __future__ import annotations
 # Helper functions for manipulating bytes
 # ====================
 
-
 def get_bit(byte: int, bit_num: int) -> int:
     """ Return bit number <bit_num> from the right within the <byte> byte.
 
