@@ -39,6 +39,8 @@ Run tests: in the same directory, execute pytest to run the unit and property‑
 
 
 Educational value
+
+
 This project offers hands‑on experience with:
 
 Greedy algorithms and data compression: Huffman coding uses a greedy strategy to build an optimal prefix code based on symbol frequencies, ensuring that no code is a prefix of another. Implementing this algorithm reinforces understanding of greedy choices and optimal substructure.
@@ -50,5 +52,6 @@ Bitwise operations: The program works directly with bits, converting between byt
 File I/O and serialization: Writing and reading binary files, including constructing a compact header and interpreting it on decompression, demonstrates practical skills in binary serialization.
 
 Testing and verification: Property‑based tests using Hypothesis check that compression is loss‑less and that various invariants hold, fostering confidence in algorithm correctness.
+
 
 By completing this assignment, developers gain a deep understanding of data compression techniques and the nuances of working with binary data and recursive data structures.
