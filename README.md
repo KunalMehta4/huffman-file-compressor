@@ -23,6 +23,7 @@ How to run
 Clone the repository and navigate to the starter folder:
 
 git clone https://github.com/KunalMehta4/huffman-file-compressor.git
+
 cd huffman-file-compressor/csc148/assignments/a2/starter
 
 Compress a file: run python compress.py, choose c when prompted, and provide the path to the file you want to compress. The program will create a new file with a .huf extension and print the average bits per symbol.
