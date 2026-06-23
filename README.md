@@ -1,4 +1,4 @@
-📦 Huffman File Compressor
+Huffman File Compressor
 
 A compact file compression and decompression tool written in Python that implements the Huffman coding algorithm. Huffman coding is a loss‑less compression method that assigns shorter binary codes to frequently occurring symbols and longer codes to rare ones, thereby reducing overall file size without losing any data. This project demonstrates how to build and traverse Huffman trees, perform bit‑level I/O and encode/decode arbitrary files, including text, audio and images. It is based on an assignment from the University of Toronto’s CSC148 course, with starter code provided for educational use.
 
